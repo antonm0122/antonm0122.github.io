@@ -1,1 +1,21 @@
+body {background-image: url("https://i.pinimg.com/564x/77/75/2f/77752f92fb5efa8ca9b53a21e9dc1be5.jpg") ;
+  background-color: #1A5276;
+  color: #D5D8DC;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10% 20%;
+  font-size: 100%;
+  
+}
 
+.title{
+  text-align: center;
+  font-size: 100%
+}
+
+.exp-header{ 
+  text-align: center;
+  text-transform: uppercase;
+  border: 2px solid #D5D8DC;
+  border-radius: 5px;
+  font-size: 100%;
+}
