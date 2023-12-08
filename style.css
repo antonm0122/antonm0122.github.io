@@ -2,10 +2,11 @@ body {
   background-color: #1A3854;
   color: #D5D8DC;
   font-family: Georgia, "Times New Roman", Times, serif;
-  margin-top: 5%;
+  margin-top: 6%;
   margin-right: 15%;
   margin-left: 15%;
   line-height: 1.25;
+  cursor: none
 }
 
 .title{
