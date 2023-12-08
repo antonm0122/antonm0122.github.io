@@ -2,16 +2,15 @@ body {
   background-color: #163856;
   color: #D5D8DC;
   font-family: Arial, Helvetica, sans-serif;
-  margin: 10% 20%;
-  font-size: 100%; 
+  margin: 15%;
 }
 
 .title{
   background-image: url("https://i.pinimg.com/564x/77/75/2f/77752f92fb5efa8ca9b53a21e9dc1be5.jpg");
   text-align: center;
-  font-size: 110%;
+  font size 110%; 
   border: 4px solid black;
-  outline: #D5D8DC solid 10px;
+  outline: #D5D8DC solid 11px;
 }
 
 .about{
@@ -40,9 +39,10 @@ body {
 }
 
 .left {
-  width: 25%;
+  width: 30%;
 }
 
 .right {
-  width: 75%;
+  width: 70%;
+  border-left: 3px dotted black;
 }
