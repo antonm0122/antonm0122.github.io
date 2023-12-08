@@ -6,7 +6,6 @@ body {
   font-size: 100%; 
 }
 
-
 .title{
   background-image: url("https://i.pinimg.com/564x/77/75/2f/77752f92fb5efa8ca9b53a21e9dc1be5.jpg");
   text-align: center;
@@ -24,33 +23,26 @@ body {
   text-align: center;
   text-transform: uppercase;
   font-size: 100%;
-
 }
-
 
 .skill-header{
   text-align: center;
   text-transform: uppercase;
 }
 
-
-* {
+*{
   box-sizing: border-box;
 }
 
-
 .column {
   float: left;
-  padding: 10px;
-  height: 300px;
+  padding: 10px;  
 }
 
 .left {
   width: 25%;
-  padding: 10px;
 }
 
 .right {
   width: 75%;
-  padding: 10px;
 }
